@@ -1,8 +1,8 @@
-- 👋 Hi, I’m 叶宇浩
-- 👀 I’m interested in ML 
-- 🌱 I’m currently learning ML and bio
-- 💞️ I’m looking to collaborate on biology
-- 📫 How to reach me milesyeyuhao@gamil.com
+- 👋 Hi, I’m 叶宇浩 Miles
+- 👀 I’m interested in Computational Biology and Bioinformatics
+- 🌱 I’m currently learning protein design
+- 💞️ I’m looking to 礼拜六日冇节目
+- 📫 How to reach me Email:milesyeyuhao@gamil.com / Wechat：yyh2022Miles
 
 <!---
 MilesYyh/MilesYyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
